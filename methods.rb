@@ -26,5 +26,5 @@ class Person
   end
 end
 
-new_person = Person.new
-new_person.display
+#new_person = Person.new
+#new_person.display
