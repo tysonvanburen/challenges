@@ -1,0 +1,7 @@
+Highline provides a solid toolset to help you get the job done cleanly.
+ex. You can say input must be an integer and within a certain range
+ask("Age?  ", Integer) { |q| q.in = 0..105 }
+
+sweet methods like .agree only accept "yes" or "no"
+
+also parses dates and cool stuff like that.
